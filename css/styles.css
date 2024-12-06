@@ -173,6 +173,7 @@ button {
   align-items: center;
   padding-top: 120px;
   padding-bottom: 120px;
+  display: flex;
 }
 .advantages-item {
   width: calc((100% - 72px) / 4);
