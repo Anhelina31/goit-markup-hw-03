@@ -169,7 +169,6 @@ button {
   padding-bottom: 120px;
 }
 .advantages-list {
-  display: flex;
   gap: 24px;
   align-items: center;
   padding-top: 120px;
