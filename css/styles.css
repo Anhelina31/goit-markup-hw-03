@@ -112,11 +112,8 @@ button {
 }
 .solution {
   background-color: #2e2f42;
-  margin-bottom: 48px;
   padding-bottom: 188px;
   padding-top: 188px;
-  padding-left: 472px;
-  padding-right: 472px;
 }
 .solution-title {
   max-width: 496px;
@@ -127,8 +124,8 @@ button {
   text-align: center;
   color: #fff;
   margin-bottom: 48px;
-  padding-bottom: 188px;
-  padding-top: 188px;
+  padding-left: 472px;
+  padding-right: 472px;
 }
 .btn-order {
   font-size: 16px;
