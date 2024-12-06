@@ -28,7 +28,7 @@ img {
 
 /* common */
 .container {
-  max-width: 1158;
+  max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -112,8 +112,6 @@ button {
 }
 .solution {
   background-color: #2e2f42;
-}
-.solution .container {
   margin-bottom: 48px;
   padding-bottom: 188px;
   padding-top: 188px;
@@ -121,7 +119,7 @@ button {
   padding-right: 472px;
 }
 .solution-title {
-  width: 496px;
+  max-width: 496px;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -153,6 +151,18 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.advantages-title-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 .advantages-list {
   display: flex;
