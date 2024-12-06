@@ -311,6 +311,7 @@ button {
 .page-footer {
   padding-top: 100px;
   padding-bottom: 100px;
+  margin: auto;
 }
 .foter-logo {
   display: inline-block;
