@@ -170,14 +170,9 @@ button {
 }
 .advantages-list {
   display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: stretch;
-  width: 1128px;
-  height: 104px;
-  margin: 156px;
-  padding: 24px;
   gap: 24px;
+  align-items: center;
+  padding: 120px;
 }
 .advantages-item {
   width: calc((100% - 72px) / 4);
