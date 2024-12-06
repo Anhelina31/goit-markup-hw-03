@@ -181,6 +181,7 @@ button {
 }
 .advantages-item {
   width: calc((100% - 72px) / 4);
+  border-radius: 0 0 4px 4px;
 }
 
 .advantages-title {
@@ -227,6 +228,8 @@ button {
   color: #2e2f42;
   padding-top: 120px;
   margin-bottom: 72px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .team-item {
   background: #fff;
