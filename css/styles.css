@@ -199,7 +199,6 @@ button {
   color: #434455;
 }
 .team {
-  width: calc((100% - 72px) / 4);
   padding-top: 120px;
   padding-bottom: 120px;
   background-color: #f4f4fd;
@@ -231,12 +230,9 @@ button {
 }
 .team-item {
   background: #fff;
-  border-radius: 0 0 4px 4px;
-
+  width: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px;
   padding: 0px 0px 32px 0px;
-  width: 264px;
-  height: 380px;
 }
 .team-name {
   font-weight: 500;
