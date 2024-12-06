@@ -62,7 +62,10 @@ img {
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
+
 .nav-list {
   display: flex;
   align-items: center;
@@ -312,8 +315,4 @@ button {
   padding-top: 100px;
   padding-bottom: 100px;
   margin: auto;
-}
-.logo foter-logo {
-  display: inline-block;
-  margin-bottom: 16px;
 }
